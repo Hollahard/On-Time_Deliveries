@@ -12,5 +12,5 @@ Analyzing on-time delivery performance to provide actionable insights for improv
 SQL, Data Analytics, Power BI, Excel
 
 ## Contact
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
-- Email: [Your Email](mailto:youremail@example.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/carl-l-shaw)
+- Email: [Your Email](mailto:carl.shaw42@gmail.com)
