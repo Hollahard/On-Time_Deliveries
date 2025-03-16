@@ -35,5 +35,5 @@ Once changes are implemented, we’ll circle back 30 days from the date of chang
 
 
 ## Contact
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/carl-l-shaw)
-- Email: [Your Email](mailto:carl.shaw42@gmail.com)
+- LinkedIn: [Carl's LinkedIn](https://www.linkedin.com/in/carl-l-shaw)
+- Email: [Gmail](mailto:carl.shaw42@gmail.com)
