@@ -16,8 +16,6 @@ This project investigates the factors contributing to late deliveries and provid
 ## 🛠 Tools Used
 - Tableau
 - Excel
-- PowerPoint
-- Python (optional – if you did any preprocessing)
 
 ## 🧠 Key Insights
 - Overall late delivery rate: **10.23%**
